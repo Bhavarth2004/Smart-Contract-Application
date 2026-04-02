@@ -1,6 +1,6 @@
 torch
-torchvision
 streamlit
+plotly
 pandas
 numpy
 scikit-learn
