@@ -1,0 +1,8 @@
+torch
+torchvision
+streamlit
+pandas
+numpy
+scikit-learn
+web3
+joblib
